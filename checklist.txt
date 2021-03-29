@@ -1,0 +1,5 @@
+- classe jenérica Exception de exceções.
+- ApplicationException sub clsse da Exception.
+
+ O programa consiste em receber dados de uma conta comum, realizando operações de saque, 
+depósito e limite de saque. Atribuindo uma exceção e tratandoas com o try e catch.
